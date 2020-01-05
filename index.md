@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Wu Xiao Mu _ BUG _ End
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+正常的BUG开发者.
 
 
